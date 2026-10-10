@@ -14,7 +14,21 @@
 
 This repository brings together coursework exercises demonstrating how to draw geometric shapes, construct scenes, respond to keyboard input, and apply 2D transformations. Each source file is a **standalone example**, not a single combined application.
 
-## 🖼️ Project gallery
+## 🖼️ Visual previews
+
+These **source-derived illustrations** recreate the intended geometry and colors from the C++ code. They are **not verified runtime screenshots**.
+
+| Nile & Pyramids | Robot Transformations |
+| --- | --- |
+| ![Illustrated Nile scene](previews/nile-and-pyramids.svg) | ![Illustrated robot](previews/robot-transformations.svg) |
+| [View source](Assignments/Assignment-1.cpp) | [View source](Assignments/Assignment-2.cpp) |
+
+| Star Shape | Triangle Color Palette |
+| --- | --- |
+| ![Illustrated star-shaped triangles](previews/star-shape.svg) | ![Illustrated triangle color fan](previews/triangle-colors.svg) |
+| [View source](Star-Shape/Star-Shape.cpp) | [View source](Lab-Exam/LabExam-Original.cpp) |
+
+## 📚 Project gallery
 
 | Example | What it demonstrates | Source |
 | --- | --- | --- |
