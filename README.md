@@ -120,12 +120,6 @@ Computer-Graphics-OpenGL/
 - Some examples set transformations or projection inside display callbacks and use repeated redraws; these are learning exercises and may benefit from further graphics-state cleanup.
 - Programs have **not been compiled or run during this documentation update**.
 
-## 🤝 Attribution
-
-A portfolio collection of academic exercises, some of which may include collaborative work. Original contributors should be credited where applicable.
-
----
-
 <div align="center">
 
 *Learning computer graphics, one primitive at a time.*
